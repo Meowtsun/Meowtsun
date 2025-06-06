@@ -6,8 +6,8 @@ literally just a cat making backend soup 🍲
 
 ## 🧪 Projects & Plugins
 
-- 🔹 [EmbedMaker](https://github.com/Meowtsun/EmbedMaker) – Create Discord-style embeds in Roblox Studio  
-- 🔹 [Lootbag](https://github.com/Meowtsun/Lootbag) – Luck-based loot drop system  
+- 🔹 [EmbedMaker](https://github.com/Meowtsun/EmbedMaker) – Create Discord.js style embeds in Roblox Studio  
+- 🔹 [Lootbag](https://github.com/Meowtsun/Lootbag) – Efficient Luck-based loot drop system  
 - 🔹 [Bowls](https://github.com/Meowtsun/Bowls) – Modifier-based status effect framework  
 
 ## 🎮 Games I’ve Made
