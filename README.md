@@ -20,9 +20,4 @@ Hi! I'm Meowtsun — a Roblox developer who builds niche plugins, backend system
 
 ---
 
-## 🧵 Elsewhere
-
-- 🧑‍💻 [Roblox Profile](https://www.roblox.com/users/890254125/profile)  
-- 💬 [DevForum](https://devforum.roblox.com/u/meowtsun/)  
-
 > Just a cat making backend soup 🍲
