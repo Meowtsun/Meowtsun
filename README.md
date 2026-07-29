@@ -16,6 +16,7 @@ Protecting your sanity is my role.<br>
 - 🧱 [Untitled Tower Defense](https://www.roblox.com/games/7350800657/Check-Description-Untitled-Tower-Defense)  
 - 🎲 [Randomizer](https://www.roblox.com/games/7380374925/Indev-1-1-Event-Randomizer)  
 - 👁 [Paranoia](https://www.roblox.com/games/18892077541/Paranoia) – Game jam entry made in 3 days 
+<br>
 
-### Other stuffs
-Profile Picture: [@domotteru](https://x.com/domotteru)
+
+>  Profile Picture: [@domotteru](https://x.com/domotteru)
