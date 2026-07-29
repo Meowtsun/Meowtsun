@@ -1,10 +1,10 @@
 ## 🐾 Meowtsun is here!
 
-I build Frameworks and Tools!
+I build Frameworks and Tools!<br>
+I enjoy building strongly typed libraries with clean APIs.<br>
+I love making my works simple to use and understand.<br>
 
-I enjoy building strongly typed libraries with clean APIs.
-I love making my works simple to use and understand.
-Protecting your sanity is my role.
+Protecting your sanity is my role.<br>
 
 ## 🧪 Projects & Plugins
 
@@ -16,3 +16,6 @@ Protecting your sanity is my role.
 - 🧱 [Untitled Tower Defense](https://www.roblox.com/games/7350800657/Check-Description-Untitled-Tower-Defense)  
 - 🎲 [Randomizer](https://www.roblox.com/games/7380374925/Indev-1-1-Event-Randomizer)  
 - 👁 [Paranoia](https://www.roblox.com/games/18892077541/Paranoia) – Game jam entry made in 3 days 
+
+### Other stuffs
+Profile Picture: [@domotteru](https://x.com/domotteru)
