@@ -8,8 +8,9 @@ Protecting your sanity is my role.<br>
 
 ## 🧪 Projects & Plugins
 
-- 🔹 [EmbedMaker](https://github.com/Meowtsun/EmbedMaker) – Create Discord.js style embeds in Roblox Studio  
-- 🔹 [LootSet](https://github.com/Meowtsun/LootSet) – Combining LootTable generator with configurations
+- 🔹 [SessionService](https://github.com/Meowtsun/SessionService) - Data manager with a strongly typed design, schemas and selective replication
+- 🔹 [EmbedMaker](https://github.com/Meowtsun/EmbedMaker) - Create Discord.js style embeds in Roblox Studio  
+- 🔹 [LootSet](https://github.com/Meowtsun/LootSet) - Combining LootTable generator with configurations
 
 ## 🎮 Games I’ve Made
 
