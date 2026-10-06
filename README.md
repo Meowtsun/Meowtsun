@@ -1,10 +1,13 @@
 ## 🐾 Meowtsun is here!
 
 I build Frameworks and Tools!<br>
-I enjoy building strongly typed libraries with clean APIs.<br>
-I love making my works simple to use and understand.<br>
+I enjoy building strongly typed libraries with clean APIs<br>
+I love making my works simple to use and understand<br>
 
-Protecting your sanity is my role.<br>
+Protecting your sanity is my role<br>
+
+Most of my repositories are experiments or personal tools<br>
+I sometimes publish them when I find the ideas or APIs interesting enough to share<br>
 
 ## 🧪 Projects & Plugins
 
